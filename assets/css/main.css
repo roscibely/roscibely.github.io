@@ -680,7 +680,8 @@
 		}
 
 		.\-2u\28xlarge\29 {
-			margin-left: 16.66667%;
+			margin-left:
+ 16.66667%;
 		}
 
 		.\-1u\28xlarge\29 {
@@ -1297,7 +1298,8 @@
 		}
 
 		.\-9u\28small\29 {
-			margin-left: 75%;
+			margin-left:
+ 75%;
 		}
 
 		.\-8u\28small\29 {
@@ -1939,7 +1941,8 @@
 		.button:disabled {
 			-moz-pointer-events: none;
 			-webkit-pointer-events: none;
-			-ms-pointer-events: none;
+			-ms-pointer-events:
+ none;
 			pointer-events: none;
 			opacity: 0.25;
 		}
@@ -2493,7 +2496,8 @@
 			width: 100%;
 		}
 
-			.image.fit img {
+			.image.fit
+ img {
 				width: 100%;
 			}
 
@@ -3042,7 +3046,8 @@
 				}
 
 			.wrapper.style1 input[type="checkbox"]:checked + label:before,
-			.wrapper.style1 input[type="radio"]:checked + label:before {
+			.wrapper.style1
+ input[type="radio"]:checked + label:before {
 				background-color: #000;
 				border-color: #000;
 				color: #fafafa;
@@ -3107,7 +3112,7 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #3498db;
+			background-color: #111212;
 			color: #aed6f1;
 		}
 
@@ -3154,7 +3159,7 @@
 			.wrapper.style2 button,
 			.wrapper.style2 .button {
 				background-color: #fff;
-				color: #3498db !important;
+				color: #111212 !important;
 			}
 
 				.wrapper.style2 input[type="submit"].alt,
@@ -3319,7 +3324,7 @@
 			}
 
 			.wrapper.style2 .image {
-				box-shadow: 0px 0px 0px 7px #3498db, 0px 0px 0px 8px rgba(255, 255, 255, 0.25);
+				box-shadow: 0px 0px 0px 7px #111212, 0px 0px 0px 8px rgba(255, 255, 255, 0.25);
 			}
 
 		@media screen and (max-width: 1280px) {
@@ -3427,11 +3432,11 @@
 
 			#header > .logo a {
 				font-size: 1.25em;
-				color: #3498db;
+				color: #111212;
 			}
 
 				#header > .logo a:hover {
-					color: #3498db;
+					color: #111212;
 				}
 
 			#header > .logo span {
@@ -3453,7 +3458,7 @@
 		}
 
 			#header > a:hover {
-				color: #3498db;
+				color: #111212;
 			}
 
 			#header > a[href="#menu"] {
@@ -3497,7 +3502,8 @@
 					}
 
 					#header > a:last-child {
-						padding-right: 1em;
+						padding-right:
+ 1em;
 					}
 
 			}
@@ -3613,7 +3619,7 @@
 					}
 
 					#menu > ul.links > li:hover {
-						color: #3498db;
+						color: #111212;
 					}
 
 					#menu > ul.links > li:first-child > a:not(.button) {
@@ -3657,7 +3663,7 @@
 			}
 
 			#menu .close:hover {
-				color: #3498db;
+				color: #111212;
 			}
 
 			@media screen and (max-width: 736px) {
