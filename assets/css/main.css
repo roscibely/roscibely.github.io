@@ -3713,7 +3713,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("https://github.com/roscibely/roscibely.github.io/blob/master/images/openloop.jpg");
+		background-image: url("../../images/banner.jpg");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -3734,7 +3734,7 @@
 			-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 			-ms-transition: opacity 1s ease, -ms-transform 1s ease;
 			transition: opacity 1s ease, transform 1s ease;
-			opacity: 0.3;
+			opacity: 1;
 			position: relative;
 			z-index: 2;
 		}
