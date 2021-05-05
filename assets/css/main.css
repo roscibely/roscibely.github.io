@@ -1570,7 +1570,9 @@
 	}
 
 	body {
-		background: #999999;
+		
+		background-image: url("https://github.com/roscibely/roscibely.github.io/blob/master/images/closedloop.jpg");
+		background-color:  #000000;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
