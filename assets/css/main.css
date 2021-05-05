@@ -1587,8 +1587,8 @@
 /* Type */
 
 	body {
-		background-image: url("https://github.com/roscibely/roscibely.github.io/blob/master/images/closedloop.jpg");
 		background-color:  #000000;
+		color: #999999;
 		opacity: 0.3;
 		
 	}
